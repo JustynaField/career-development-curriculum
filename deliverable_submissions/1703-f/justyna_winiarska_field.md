@@ -15,9 +15,9 @@ Students should clone their individual file and update them with links to specif
        [Link to my gist](https://gist.github.com/JustynaField/d36a899fd06309451377ffbff0fb69f8)
 * Link to your completed Turing portfolio with 2 additional projects: [Link to my Turing Portfolio](https://www.turing.io/alumni/justyna-winiarska-field) 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-[Link to my Gist](https://gist.github.com/JustynaField/fde21d13d17dae00b8b715b7632a29cd)
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
 [Link to my Gist](https://gist.github.com/JustynaField/e907a5c81392c51fe07f6aea6443d7c9)
+* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+[Link to my Gist](https://gist.github.com/JustynaField/fde21d13d17dae00b8b715b7632a29cd)
 
 ## Mod 3 Deliverables:
 
